@@ -8,7 +8,7 @@ const products = [
     { name: "Shoes", price: 25000, category: "Clothing" },
     { name: "Jacket", price: 12000, category: "Clothing" },
     { name: "Watch", price: 5000, category: "Accessories" },
-    { name: "Bottle", price: 3000, category: "Accessories" },
+    { name: "Backpaper", price: 3000, category: "Accessories" },
     { name: "Sofa", price: 60000, category: "Furniture" }
   ];
   
